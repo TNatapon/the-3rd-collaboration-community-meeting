@@ -2,11 +2,12 @@
 
 <img width="20%" alt="your_picture" src ="/Presentation_program/7_Update_on_new_NETPIE/picture/....(file name of picture).." />
 
-**Name :**<br>...(your name)...
+**Name :**<br>Mr. Natapon Tansangworn
 
-**Affiliation :**<br>...(your affiliation)...
-
-**Contact :**<br>...(your email)...
+**Affiliation :**<br>Center for Cyber-Physical Systems
+National Computing and Cyber-Physical Infrastructure
+National Electronics and Computer Technology Center
+**Contact :**<br>natapon.tan@nectec.or.th
 
 <details>
     <summary>Click Here for Short Biography!</summary>
